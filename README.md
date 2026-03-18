@@ -3,6 +3,7 @@ Contains space dynamics file
   - Kepler prediction problem
   - Lambert's Problem
   - Gibbs Method
+  - Porkchop (contains all dependent functions within /Porkchop
 
 Some of these files require other files for scripts but everything is contained within this repo.
 
